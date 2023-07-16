@@ -11,8 +11,8 @@ This project is a simple To-Do List application built using HTML, CSS, and JavaS
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-list.git`
-2. Navigate to the project directory: `cd todo-list`
+1. Clone the repository: `git clone https://github.com/Tarush001/To-Do-List.git`
+2. Navigate to the project directory: `cd To-Do-List`
 
 ## Usage
 
