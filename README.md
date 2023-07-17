@@ -2,6 +2,8 @@
 
 This project is a simple To-Do List application built using HTML, CSS, and JavaScript.
 
+![Screenshot 2023-07-16 223921](https://github.com/Tarush001/To-Do-List/assets/110281400/00f73f88-93f8-48c0-9e30-a353652df6bc)
+
 ## Features
 
 - Add new tasks to the list
@@ -13,6 +15,7 @@ This project is a simple To-Do List application built using HTML, CSS, and JavaS
 
 1. Clone the repository: `git clone https://github.com/Tarush001/To-Do-List.git`
 2. Navigate to the project directory: `cd To-Do-List`
+
 
 ## Usage
 
